@@ -1,10 +1,4 @@
 # sample-sales
-
-## 📌 Overview
-This project analyzes type of customer to lauch promotion campaigns.
-
-## 📊 Tools Used
-- SQL Server Management
 ## Code
 CREATE DATABASE SalesSample
 
@@ -154,7 +148,5 @@ ORDER BY TotalCus DESC
 
 
 
-
-## 📷 Screenshot
 
 
